@@ -12,6 +12,7 @@ lib/ec2/right_ec2_security_groups.rb
 lib/ec2/right_ec2_spot_instances.rb
 lib/ec2/right_ec2_ebs.rb
 lib/ec2/right_ec2_reserved_instances.rb
+lib/ec2/right_ec2_tags.rb
 lib/ec2/right_ec2_vpc.rb
 lib/ec2/right_ec2_monitoring.rb
 lib/right_aws.rb
