@@ -21,7 +21,7 @@ class Hoe
   end
 end
 
-Hoe.new('right_aws', RightAws::VERSION::STRING) do |p|
+Hoe.new('ktheory-right_aws', RightAws::VERSION::STRING) do |p|
   p.rubyforge_name = 'rightaws'
   p.author = 'RightScale, Inc.'
   p.email = 'support@rightscale.com'
